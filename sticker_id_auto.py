@@ -6,6 +6,7 @@ from PIL import Image, ImageStat, ImageFilter, ImageDraw, ImageFont
 from dotenv import load_dotenv
 from tenacity import retry, stop_after_attempt, wait_exponential
 from openai import OpenAI
+import fade
 
 try:
     from banner import print_banner_side_by_side
@@ -73,7 +74,6 @@ def slice_image(src_path, outdir, tile_w, tile_h, sx, sy, min_brightness, min_ed
     with open(csv_path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=BASE_FIELDS); writer.writeheader(); writer.writerows(rows)
 
-    # Optional contact sheet
     if build_contact_sheet and rows:
         import math
         thumb_w = thumb_h = 120
@@ -87,7 +87,6 @@ def slice_image(src_path, outdir, tile_w, tile_h, sx, sy, min_brightness, min_ed
             sheet.paste(timg, (cx, cy))
         sheet.save(outdir / "contact_sheet.jpg", quality=90)
 
-    # Create map with grid overlay
     map_img = img.copy()
     draw = ImageDraw.Draw(map_img)
     try:
