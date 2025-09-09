@@ -26,31 +26,72 @@
 
 ## Dear Hackers,
 
-Have you or a loved one every wished you had a way to identify all the @defcon #stickerwall stickers?
-
+Have you or a loved one every wished you had a way to identify all the @defcon #stickerwall stickers?
 If you have, this repo does all the  work. 
 
-defcon.hakc.ai --> https://github.com/haKC-ai/defcon_stickerwall_id
-
-stickerwall.hakc.ai --> Public Google Sheet output for the DEF CON 33 stickerwall
+* https://defcon.hakc.ai --> https://github.com/haKC-ai/defcon_stickerwall_id
+* https://stickerwall.hakc.ai --> Public Google Sheet output for the DEF CON 33 stickerwall
 
 
 `What this script does` 
 
 It slices a large sticker wall image into overlapping tiles, identify all stickers per tile with OpenAI Vision, and streams the results to CSV in real time.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/haKC-ai/defcon_stickerwall_id/main/res/images/DCSIDT.png" alt="STICKERWALL IDENTIFIER & INDEXER v0.23" width="1600"/>
-</p>
 
 
-`NFO`
 
-* Larger tiles with overlap to capture full stickers
-* Multi object detection per tile via model guidance
-* Streaming writes to CSV so you can tail results as they arrive
-* Defanged websites in the output for safe sharing
-* Security first design with minimal dependencies and local processing
+NAME........................................StickerWall Auto-ID  
+Collective...........................[haKC.ai / COP DETECTED]  
+System..................Python3 / OpenAI Vision / LocalIO  
+Size..........................................[IN PROGRESS...]  
+Supplied by......................................./dev/CØR.23  
+Release date...........................................2025  
+
+GROUP NEWS: Bigger tiles, smarter cuts, faster IDs.  
+            No cloud slop, just raw wall hacker magic.  
+
+NFO:  
+* Overlapping tile crops ensure full sticker capture  
+* Multi-object detection per tile via model-guided parse  
+* CSV streamed live for tail’n as results land  
+* Defanged websites for safe share’n  
+* Local-first, security-minded design (minimal deps)  
+
+OUTPUT:  
+  stickers_out/tiles/*.jpg..................tile crops  
+  stickers_out/stickers.csv.................raw tiles  
+  stickers_out/stickers_identified.csv......multi results streamed  
+  stickers_out/contact_sheet.jpg............visual index  
+  stickers_out/auto_id.log..................run log  
+
+PIPELINE:  
+  [Input wall.jpg] -> Slice tiles -> Filter (brightness/edges)  
+  -> Save JPGs -> Call OpenAI Vision -> Parse JSON  
+  -> Defang URLs -> Stream CSV -> QA loop  
+
+CSV SCHEMA:  
+  thumbnail | x | y | tile_w | tile_h | mean_brightness | edge_mean  
+  name | category | notes | confidence | website | model | tile_index  
+
+TUNING:  
+  * --tile-w / --tile-h up = bigger crops  
+  * --stride-x / --stride-y down = more overlap  
+  * --min-brightness / --min-edge-mean down = keep more tiles  
+  * --max-tiles cap = recon mode  
+
+
+GR33TZ: SecKC, DEF CON, LEGACY CoWTownComputerCongress, ACiD,  
+        iCE, T$A, badge lords  
+
+SHOUTZ:  
+[*] Stickerheads grinding walls at 2AM  
+[*] Sysops still riding 14.4k jammers  
+[*] AOHELL punter fiends with dusty ANSIs  
+
+FU to [LAMERZ] dropping full URLs in pastebins.  
+
+───── ▓ signed, /dev/CØR.23: ▓ ─────  
+"im stuck on you"  
 
 ## Quick start
 
@@ -168,8 +209,3 @@ tenacity
 * False positives or noisy results
   Add a post filter that drops items with `confidence < 0.4`, or add a second pass that merges duplicates by `name` and keeps the highest confidence.
 
-## Roadmap
-
-* Optional OpenCV based blob segmentation to isolate stickers before classification
-* Duplicate suppression with perceptual hashing on crops
-* Confidence calibration using few shot examp
