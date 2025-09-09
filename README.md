@@ -24,14 +24,27 @@
 ![Security](https://img.shields.io/badge/security-security_first-critical)
 ![Status](https://img.shields.io/badge/status-active-success)
 
-Slice a large sticker wall into overlapping tiles, identify all stickers per tile with OpenAI Vision, and stream results to CSV in real time.
+## Dear Hackers,
+
+Have you or a loved one every wished you had a way to identify all the @defcon #stickerwall stickers?
+
+If you have, this repo does all the  work. 
+
+defcon.hakc.ai --> https://github.com/haKC-ai/defcon_stickerwall_id
+
+stickerwall.hakc.ai --> Public Google Sheet output for the DEF CON 33 stickerwall
+
+
+`What this script does` 
+
+It slices a large sticker wall image into overlapping tiles, identify all stickers per tile with OpenAI Vision, and streams the results to CSV in real time.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/haKC-ai/defcon_stickerwall_id/main/res/images/DCSIDT.png" alt="STICKERWALL IDENTIFIER & INDEXER v0.23" width="1600"/>
 </p>
 
 
-## Why
+`NFO`
 
 * Larger tiles with overlap to capture full stickers
 * Multi object detection per tile via model guidance
