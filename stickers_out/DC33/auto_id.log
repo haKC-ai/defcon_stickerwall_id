@@ -1,0 +1,704 @@
+2025-09-09 11:12:55,967 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:12:55,982 INFO [1/352] 0_0.jpg -> 9
+2025-09-09 11:13:05,588 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:13:05,591 INFO [2/352] 200_0.jpg -> 8
+2025-09-09 11:13:13,986 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:13:13,988 INFO [3/352] 400_0.jpg -> 8
+2025-09-09 11:13:24,944 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:13:24,947 INFO [4/352] 600_0.jpg -> 9
+2025-09-09 11:13:39,587 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:13:39,590 INFO [5/352] 800_0.jpg -> 8
+2025-09-09 11:13:49,415 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:13:49,417 INFO [6/352] 1000_0.jpg -> 8
+2025-09-09 11:14:01,908 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:14:01,911 INFO [7/352] 1200_0.jpg -> 8
+2025-09-09 11:14:14,708 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:14:14,710 INFO [8/352] 1400_0.jpg -> 10
+2025-09-09 11:14:28,019 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:14:28,021 INFO [9/352] 1600_0.jpg -> 10
+2025-09-09 11:14:38,367 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:14:38,372 INFO [10/352] 1800_0.jpg -> 10
+2025-09-09 11:14:47,375 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:14:47,380 INFO [11/352] 2000_0.jpg -> 7
+2025-09-09 11:14:56,976 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:14:56,979 INFO [12/352] 2200_0.jpg -> 7
+2025-09-09 11:15:08,060 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:15:08,066 INFO [13/352] 2400_0.jpg -> 8
+2025-09-09 11:15:17,274 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:15:17,277 INFO [14/352] 2600_0.jpg -> 7
+2025-09-09 11:15:30,386 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:15:30,395 INFO [15/352] 2800_0.jpg -> 10
+2025-09-09 11:15:41,952 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:15:41,956 INFO [16/352] 3000_0.jpg -> 10
+2025-09-09 11:15:55,612 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:15:55,616 INFO [17/352] 3200_0.jpg -> 10
+2025-09-09 11:16:10,423 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:16:10,429 INFO [18/352] 3400_0.jpg -> 10
+2025-09-09 11:16:26,395 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:16:26,398 INFO [19/352] 3600_0.jpg -> 10
+2025-09-09 11:16:40,424 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:16:40,430 INFO [20/352] 3800_0.jpg -> 10
+2025-09-09 11:16:53,435 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:16:53,439 INFO [21/352] 4000_0.jpg -> 10
+2025-09-09 11:17:13,331 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:17:13,332 INFO [22/352] 4200_0.jpg -> 9
+2025-09-09 11:17:26,913 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:17:26,917 INFO [23/352] 4400_0.jpg -> 10
+2025-09-09 11:17:36,727 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:17:36,732 INFO [24/352] 4600_0.jpg -> 10
+2025-09-09 11:17:50,922 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:17:50,927 INFO [25/352] 4800_0.jpg -> 10
+2025-09-09 11:18:02,139 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:18:02,144 INFO [26/352] 5000_0.jpg -> 10
+2025-09-09 11:18:14,631 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:18:14,632 INFO [27/352] 5200_0.jpg -> 11
+2025-09-09 11:18:24,464 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:18:24,469 INFO [28/352] 5400_0.jpg -> 8
+2025-09-09 11:18:33,678 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:18:33,682 INFO [29/352] 5600_0.jpg -> 8
+2025-09-09 11:18:44,842 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:18:44,847 INFO [30/352] 5800_0.jpg -> 9
+2025-09-09 11:18:53,439 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:18:53,441 INFO [31/352] 6000_0.jpg -> 7
+2025-09-09 11:19:04,531 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:19:04,534 INFO [32/352] 6200_0.jpg -> 9
+2025-09-09 11:19:15,414 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:19:15,428 INFO [33/352] 0_200.jpg -> 7
+2025-09-09 11:19:26,259 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:19:26,268 INFO [34/352] 200_200.jpg -> 8
+2025-09-09 11:19:28,872 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:19:28,876 INFO [35/352] 400_200.jpg -> 1
+2025-09-09 11:19:42,645 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:19:42,648 INFO [36/352] 600_200.jpg -> 10
+2025-09-09 11:19:53,964 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:19:53,969 INFO [37/352] 800_200.jpg -> 9
+2025-09-09 11:20:05,430 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:20:05,436 INFO [38/352] 1000_200.jpg -> 9
+2025-09-09 11:20:18,434 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:20:18,439 INFO [39/352] 1200_200.jpg -> 10
+2025-09-09 11:20:31,131 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:20:31,135 INFO [40/352] 1400_200.jpg -> 11
+2025-09-09 11:20:57,331 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:20:57,336 INFO [41/352] 1600_200.jpg -> 10
+2025-09-09 11:21:07,831 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:21:07,835 INFO [42/352] 1800_200.jpg -> 10
+2025-09-09 11:21:19,613 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:21:19,616 INFO [43/352] 2000_200.jpg -> 10
+2025-09-09 11:21:29,500 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:21:29,505 INFO [44/352] 2200_200.jpg -> 9
+2025-09-09 11:21:39,126 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:21:39,130 INFO [45/352] 2400_200.jpg -> 8
+2025-09-09 11:21:49,673 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:21:49,677 INFO [46/352] 2600_200.jpg -> 8
+2025-09-09 11:22:01,652 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:22:01,656 INFO [47/352] 2800_200.jpg -> 10
+2025-09-09 11:22:11,198 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:22:11,202 INFO [48/352] 3000_200.jpg -> 8
+2025-09-09 11:22:22,215 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:22:22,218 INFO [49/352] 3200_200.jpg -> 10
+2025-09-09 11:22:34,083 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:22:34,087 INFO [50/352] 3400_200.jpg -> 10
+2025-09-09 11:22:44,828 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:22:44,831 INFO [51/352] 3600_200.jpg -> 10
+2025-09-09 11:22:56,541 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:22:56,550 INFO [52/352] 3800_200.jpg -> 10
+2025-09-09 11:23:09,136 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:23:09,140 INFO [53/352] 4000_200.jpg -> 10
+2025-09-09 11:23:22,222 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:23:22,224 INFO [54/352] 4200_200.jpg -> 10
+2025-09-09 11:23:34,736 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:23:34,740 INFO [55/352] 4400_200.jpg -> 10
+2025-09-09 11:23:45,362 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:23:45,366 INFO [56/352] 4600_200.jpg -> 9
+2025-09-09 11:23:57,015 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:23:57,019 INFO [57/352] 4800_200.jpg -> 10
+2025-09-09 11:24:10,473 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:24:10,477 INFO [58/352] 5000_200.jpg -> 10
+2025-09-09 11:24:19,020 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:24:19,026 INFO [59/352] 5200_200.jpg -> 9
+2025-09-09 11:24:29,418 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:24:29,421 INFO [60/352] 5400_200.jpg -> 10
+2025-09-09 11:24:38,636 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:24:38,640 INFO [61/352] 5600_200.jpg -> 10
+2025-09-09 11:24:49,160 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:24:49,163 INFO [62/352] 5800_200.jpg -> 10
+2025-09-09 11:24:57,334 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:24:57,336 INFO [63/352] 6000_200.jpg -> 8
+2025-09-09 11:25:08,739 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:25:08,743 INFO [64/352] 6200_200.jpg -> 11
+2025-09-09 11:25:15,908 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:25:15,912 INFO [65/352] 0_400.jpg -> 8
+2025-09-09 11:25:28,602 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:25:28,603 INFO [66/352] 200_400.jpg -> 8
+2025-09-09 11:25:38,699 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:25:38,703 INFO [67/352] 400_400.jpg -> 9
+2025-09-09 11:25:46,524 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:25:46,529 INFO [68/352] 600_400.jpg -> 8
+2025-09-09 11:25:50,361 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:25:50,364 INFO [69/352] 800_400.jpg -> 1
+2025-09-09 11:25:59,119 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:25:59,123 INFO [70/352] 1000_400.jpg -> 10
+2025-09-09 11:26:02,807 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:26:02,810 INFO [71/352] 1200_400.jpg -> 1
+2025-09-09 11:26:12,370 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:26:12,377 INFO [72/352] 1400_400.jpg -> 10
+2025-09-09 11:26:20,596 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:26:20,601 INFO [73/352] 1600_400.jpg -> 9
+2025-09-09 11:26:30,046 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:26:30,049 INFO [74/352] 1800_400.jpg -> 8
+2025-09-09 11:26:40,592 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:26:40,596 INFO [75/352] 2000_400.jpg -> 10
+2025-09-09 11:26:52,982 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:26:52,986 INFO [76/352] 2200_400.jpg -> 9
+2025-09-09 11:27:00,230 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:27:00,232 INFO [77/352] 2400_400.jpg -> 9
+2025-09-09 11:27:11,100 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:27:11,106 INFO [78/352] 2600_400.jpg -> 10
+2025-09-09 11:27:21,555 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:27:21,561 INFO [79/352] 2800_400.jpg -> 10
+2025-09-09 11:27:29,437 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:27:29,442 INFO [80/352] 3000_400.jpg -> 8
+2025-09-09 11:27:36,406 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:27:36,411 INFO [81/352] 3200_400.jpg -> 7
+2025-09-09 11:27:50,257 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:27:50,259 INFO [82/352] 3400_400.jpg -> 9
+2025-09-09 11:27:59,023 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:27:59,028 INFO [83/352] 3600_400.jpg -> 8
+2025-09-09 11:28:07,235 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:28:07,237 INFO [84/352] 3800_400.jpg -> 8
+2025-09-09 11:28:17,869 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:28:17,875 INFO [85/352] 4000_400.jpg -> 10
+2025-09-09 11:28:20,492 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:28:20,494 INFO [86/352] 4200_400.jpg -> 1
+2025-09-09 11:28:28,764 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:28:28,766 INFO [87/352] 4400_400.jpg -> 8
+2025-09-09 11:28:35,930 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:28:35,931 INFO [88/352] 4600_400.jpg -> 8
+2025-09-09 11:28:45,055 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:28:45,057 INFO [89/352] 4800_400.jpg -> 8
+2025-09-09 11:28:55,028 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:28:55,029 INFO [90/352] 5000_400.jpg -> 10
+2025-09-09 11:29:03,322 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:29:03,325 INFO [91/352] 5200_400.jpg -> 10
+2025-09-09 11:29:12,800 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:29:12,801 INFO [92/352] 5400_400.jpg -> 10
+2025-09-09 11:29:21,630 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:29:21,634 INFO [93/352] 5600_400.jpg -> 10
+2025-09-09 11:29:30,100 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:29:30,103 INFO [94/352] 5800_400.jpg -> 10
+2025-09-09 11:29:38,153 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:29:38,157 INFO [95/352] 6000_400.jpg -> 7
+2025-09-09 11:29:47,603 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:29:47,608 INFO [96/352] 6200_400.jpg -> 8
+2025-09-09 11:29:55,869 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:29:55,874 INFO [97/352] 0_600.jpg -> 9
+2025-09-09 11:30:05,801 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:30:05,805 INFO [98/352] 200_600.jpg -> 9
+2025-09-09 11:30:15,004 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:30:15,007 INFO [99/352] 400_600.jpg -> 10
+2025-09-09 11:30:43,027 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:30:43,033 INFO [100/352] 600_600.jpg -> 11
+2025-09-09 11:30:51,505 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:30:51,508 INFO [101/352] 800_600.jpg -> 8
+2025-09-09 11:31:04,887 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:31:04,891 INFO [102/352] 1000_600.jpg -> 8
+2025-09-09 11:31:15,842 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:31:15,845 INFO [103/352] 1200_600.jpg -> 10
+2025-09-09 11:31:25,324 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:31:25,329 INFO [104/352] 1400_600.jpg -> 10
+2025-09-09 11:31:35,951 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:31:35,955 INFO [105/352] 1600_600.jpg -> 10
+2025-09-09 11:31:47,632 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:31:47,634 INFO [106/352] 1800_600.jpg -> 10
+2025-09-09 11:32:00,389 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:32:00,392 INFO [107/352] 2000_600.jpg -> 10
+2025-09-09 11:32:11,787 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:32:11,788 INFO [108/352] 2200_600.jpg -> 10
+2025-09-09 11:32:22,740 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:32:22,743 INFO [109/352] 2400_600.jpg -> 10
+2025-09-09 11:32:33,842 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:32:33,844 INFO [110/352] 2600_600.jpg -> 10
+2025-09-09 11:32:43,525 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:32:43,531 INFO [111/352] 2800_600.jpg -> 10
+2025-09-09 11:32:54,084 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:32:54,088 INFO [112/352] 3000_600.jpg -> 8
+2025-09-09 11:33:03,955 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:33:03,958 INFO [113/352] 3200_600.jpg -> 10
+2025-09-09 11:33:12,533 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:33:12,539 INFO [114/352] 3400_600.jpg -> 9
+2025-09-09 11:33:22,653 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:33:22,655 INFO [115/352] 3600_600.jpg -> 9
+2025-09-09 11:33:37,440 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:33:37,443 INFO [116/352] 3800_600.jpg -> 9
+2025-09-09 11:33:47,784 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:33:47,787 INFO [117/352] 4000_600.jpg -> 8
+2025-09-09 11:34:04,601 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:34:04,605 INFO [118/352] 4200_600.jpg -> 10
+2025-09-09 11:34:19,671 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:34:19,672 INFO [119/352] 4400_600.jpg -> 10
+2025-09-09 11:34:28,873 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:34:28,881 INFO [120/352] 4600_600.jpg -> 9
+2025-09-09 11:34:38,392 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:34:38,397 INFO [121/352] 4800_600.jpg -> 8
+2025-09-09 11:34:47,507 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:34:47,511 INFO [122/352] 5000_600.jpg -> 9
+2025-09-09 11:35:03,685 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:35:03,690 INFO [123/352] 5200_600.jpg -> 10
+2025-09-09 11:35:14,437 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:35:14,444 INFO [124/352] 5400_600.jpg -> 9
+2025-09-09 11:35:24,127 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:35:24,134 INFO [125/352] 5600_600.jpg -> 10
+2025-09-09 11:35:33,288 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:35:33,292 INFO [126/352] 5800_600.jpg -> 8
+2025-09-09 11:35:53,689 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:35:53,697 INFO [127/352] 6000_600.jpg -> 10
+2025-09-09 11:36:01,950 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:36:01,952 INFO [128/352] 6200_600.jpg -> 9
+2025-09-09 11:36:08,836 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:36:08,838 INFO [129/352] 0_800.jpg -> 8
+2025-09-09 11:36:18,129 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:36:18,131 INFO [130/352] 200_800.jpg -> 10
+2025-09-09 11:36:25,410 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:36:25,413 INFO [131/352] 400_800.jpg -> 8
+2025-09-09 11:36:34,860 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:36:34,865 INFO [132/352] 600_800.jpg -> 9
+2025-09-09 11:36:44,728 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:36:44,732 INFO [133/352] 800_800.jpg -> 8
+2025-09-09 11:36:57,553 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:36:57,556 INFO [134/352] 1000_800.jpg -> 10
+2025-09-09 11:37:07,845 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:37:07,850 INFO [135/352] 1200_800.jpg -> 10
+2025-09-09 11:37:17,932 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:37:17,936 INFO [136/352] 1400_800.jpg -> 10
+2025-09-09 11:37:28,376 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:37:28,382 INFO [137/352] 1600_800.jpg -> 10
+2025-09-09 11:37:56,745 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:37:56,751 INFO [138/352] 1800_800.jpg -> 10
+2025-09-09 11:38:04,249 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:38:04,254 INFO [139/352] 2000_800.jpg -> 8
+2025-09-09 11:38:15,990 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:38:15,994 INFO [140/352] 2200_800.jpg -> 10
+2025-09-09 11:38:24,758 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:38:24,760 INFO [141/352] 2400_800.jpg -> 9
+2025-09-09 11:38:33,320 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:38:33,323 INFO [142/352] 2600_800.jpg -> 9
+2025-09-09 11:38:44,683 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:38:44,685 INFO [143/352] 2800_800.jpg -> 9
+2025-09-09 11:38:54,501 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:38:54,506 INFO [144/352] 3000_800.jpg -> 9
+2025-09-09 11:39:03,598 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:39:03,608 INFO [145/352] 3200_800.jpg -> 10
+2025-09-09 11:39:14,667 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:39:14,669 INFO [146/352] 3400_800.jpg -> 11
+2025-09-09 11:39:29,722 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:39:29,727 INFO [147/352] 3600_800.jpg -> 10
+2025-09-09 11:39:39,042 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:39:39,048 INFO [148/352] 3800_800.jpg -> 10
+2025-09-09 11:39:52,715 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:39:52,718 INFO [149/352] 4000_800.jpg -> 10
+2025-09-09 11:40:04,900 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:40:04,906 INFO [150/352] 4200_800.jpg -> 10
+2025-09-09 11:40:24,563 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:40:24,573 INFO [151/352] 4400_800.jpg -> 10
+2025-09-09 11:40:33,675 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:40:33,679 INFO [152/352] 4600_800.jpg -> 8
+2025-09-09 11:40:43,957 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:40:43,960 INFO [153/352] 4800_800.jpg -> 10
+2025-09-09 11:40:56,823 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:40:56,829 INFO [154/352] 5000_800.jpg -> 10
+2025-09-09 11:41:05,931 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:41:05,935 INFO [155/352] 5200_800.jpg -> 8
+2025-09-09 11:41:15,864 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:41:15,869 INFO [156/352] 5400_800.jpg -> 8
+2025-09-09 11:41:25,498 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:41:25,504 INFO [157/352] 5600_800.jpg -> 8
+2025-09-09 11:41:35,575 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:41:35,579 INFO [158/352] 5800_800.jpg -> 8
+2025-09-09 11:41:46,324 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:41:46,330 INFO [159/352] 6000_800.jpg -> 9
+2025-09-09 11:41:54,205 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:41:54,209 INFO [160/352] 6200_800.jpg -> 7
+2025-09-09 11:42:07,987 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:42:07,989 INFO [161/352] 0_1000.jpg -> 9
+2025-09-09 11:42:16,181 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:42:16,185 INFO [162/352] 200_1000.jpg -> 9
+2025-09-09 11:42:24,575 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:42:24,578 INFO [163/352] 400_1000.jpg -> 9
+2025-09-09 11:42:36,878 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:42:36,882 INFO [164/352] 600_1000.jpg -> 10
+2025-09-09 11:42:47,413 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:42:47,417 INFO [165/352] 800_1000.jpg -> 10
+2025-09-09 11:42:55,118 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:42:55,122 INFO [166/352] 1000_1000.jpg -> 9
+2025-09-09 11:43:01,588 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:43:01,590 INFO [167/352] 1200_1000.jpg -> 8
+2025-09-09 11:43:11,618 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:43:11,624 INFO [168/352] 1400_1000.jpg -> 9
+2025-09-09 11:43:23,215 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:43:23,220 INFO [169/352] 1600_1000.jpg -> 9
+2025-09-09 11:43:30,118 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:43:30,120 INFO [170/352] 1800_1000.jpg -> 8
+2025-09-09 11:43:42,878 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:43:42,884 INFO [171/352] 2000_1000.jpg -> 9
+2025-09-09 11:43:56,018 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:43:56,023 INFO [172/352] 2200_1000.jpg -> 10
+2025-09-09 11:44:05,135 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:44:05,139 INFO [173/352] 2400_1000.jpg -> 10
+2025-09-09 11:44:25,005 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:44:25,009 INFO [174/352] 2600_1000.jpg -> 10
+2025-09-09 11:44:33,877 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:44:33,880 INFO [175/352] 2800_1000.jpg -> 9
+2025-09-09 11:44:41,805 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:44:41,806 INFO [176/352] 3000_1000.jpg -> 10
+2025-09-09 11:44:51,739 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:44:51,743 INFO [177/352] 3200_1000.jpg -> 10
+2025-09-09 11:45:02,063 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:45:02,066 INFO [178/352] 3400_1000.jpg -> 10
+2025-09-09 11:45:13,421 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:45:13,427 INFO [179/352] 3600_1000.jpg -> 10
+2025-09-09 11:45:22,243 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:45:22,249 INFO [180/352] 3800_1000.jpg -> 10
+2025-09-09 11:45:34,916 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:45:34,922 INFO [181/352] 4000_1000.jpg -> 10
+2025-09-09 11:45:45,023 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:45:45,027 INFO [182/352] 4200_1000.jpg -> 10
+2025-09-09 11:46:01,875 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:46:01,881 INFO [183/352] 4400_1000.jpg -> 10
+2025-09-09 11:46:12,855 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:46:12,859 INFO [184/352] 4600_1000.jpg -> 9
+2025-09-09 11:46:23,318 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:46:23,321 INFO [185/352] 4800_1000.jpg -> 10
+2025-09-09 11:46:34,622 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:46:34,628 INFO [186/352] 5000_1000.jpg -> 10
+2025-09-09 11:46:46,423 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:46:46,428 INFO [187/352] 5200_1000.jpg -> 9
+2025-09-09 11:46:54,507 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:46:54,512 INFO [188/352] 5400_1000.jpg -> 8
+2025-09-09 11:47:01,164 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:47:01,167 INFO [189/352] 5600_1000.jpg -> 8
+2025-09-09 11:47:11,650 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:47:11,652 INFO [190/352] 5800_1000.jpg -> 8
+2025-09-09 11:47:21,545 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:47:21,551 INFO [191/352] 6000_1000.jpg -> 7
+2025-09-09 11:47:31,010 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:47:31,013 INFO [192/352] 6200_1000.jpg -> 8
+2025-09-09 11:47:42,944 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:47:42,948 INFO [193/352] 0_1200.jpg -> 9
+2025-09-09 11:48:00,455 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:48:00,458 INFO [194/352] 200_1200.jpg -> 10
+2025-09-09 11:48:10,492 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:48:10,497 INFO [195/352] 400_1200.jpg -> 11
+2025-09-09 11:48:20,530 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:48:20,534 INFO [196/352] 600_1200.jpg -> 10
+2025-09-09 11:48:30,913 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:48:30,918 INFO [197/352] 800_1200.jpg -> 8
+2025-09-09 11:48:37,933 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:48:37,935 INFO [198/352] 1000_1200.jpg -> 7
+2025-09-09 11:48:50,027 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:48:50,031 INFO [199/352] 1200_1200.jpg -> 8
+2025-09-09 11:48:59,336 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:48:59,343 INFO [200/352] 1400_1200.jpg -> 8
+2025-09-09 11:49:08,967 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:49:08,973 INFO [201/352] 1600_1200.jpg -> 8
+2025-09-09 11:49:16,696 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:49:16,701 INFO [202/352] 1800_1200.jpg -> 8
+2025-09-09 11:49:25,804 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:49:25,807 INFO [203/352] 2000_1200.jpg -> 8
+2025-09-09 11:49:34,924 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:49:34,926 INFO [204/352] 2200_1200.jpg -> 10
+2025-09-09 11:49:45,576 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:49:45,581 INFO [205/352] 2400_1200.jpg -> 9
+2025-09-09 11:49:58,012 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:49:58,017 INFO [206/352] 2600_1200.jpg -> 10
+2025-09-09 11:50:05,796 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:50:05,799 INFO [207/352] 2800_1200.jpg -> 7
+2025-09-09 11:50:16,968 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:50:16,971 INFO [208/352] 3000_1200.jpg -> 10
+2025-09-09 11:50:27,040 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:50:27,043 INFO [209/352] 3200_1200.jpg -> 8
+2025-09-09 11:50:37,334 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:50:37,337 INFO [210/352] 3400_1200.jpg -> 10
+2025-09-09 11:50:47,313 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:50:47,315 INFO [211/352] 3600_1200.jpg -> 8
+2025-09-09 11:51:00,478 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:51:00,481 INFO [212/352] 3800_1200.jpg -> 13
+2025-09-09 11:51:11,406 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:51:11,410 INFO [213/352] 4000_1200.jpg -> 10
+2025-09-09 11:51:18,956 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:51:18,960 INFO [214/352] 4200_1200.jpg -> 10
+2025-09-09 11:51:41,221 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:51:41,226 INFO [215/352] 4400_1200.jpg -> 10
+2025-09-09 11:51:51,643 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:51:51,649 INFO [216/352] 4600_1200.jpg -> 10
+2025-09-09 11:52:01,762 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:52:01,766 INFO [217/352] 4800_1200.jpg -> 10
+2025-09-09 11:52:10,521 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:52:10,525 INFO [218/352] 5000_1200.jpg -> 8
+2025-09-09 11:52:21,767 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:52:21,774 INFO [219/352] 5200_1200.jpg -> 7
+2025-09-09 11:52:28,340 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:52:28,344 INFO [220/352] 5400_1200.jpg -> 8
+2025-09-09 11:52:37,625 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:52:37,629 INFO [221/352] 5600_1200.jpg -> 7
+2025-09-09 11:52:46,008 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:52:46,011 INFO [222/352] 5800_1200.jpg -> 9
+2025-09-09 11:53:05,083 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:53:05,089 INFO [223/352] 6000_1200.jpg -> 10
+2025-09-09 11:53:18,007 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:53:18,011 INFO [224/352] 6200_1200.jpg -> 7
+2025-09-09 11:53:28,041 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:53:28,047 INFO [225/352] 0_1400.jpg -> 8
+2025-09-09 11:53:40,547 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:53:40,551 INFO [226/352] 200_1400.jpg -> 10
+2025-09-09 11:53:50,666 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:53:50,669 INFO [227/352] 400_1400.jpg -> 9
+2025-09-09 11:53:57,324 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:53:57,327 INFO [228/352] 600_1400.jpg -> 9
+2025-09-09 11:54:04,904 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:54:04,911 INFO [229/352] 800_1400.jpg -> 8
+2025-09-09 11:54:22,473 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:54:22,479 INFO [230/352] 1000_1400.jpg -> 8
+2025-09-09 11:54:31,995 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:54:31,997 INFO [231/352] 1200_1400.jpg -> 9
+2025-09-09 11:54:35,957 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:54:35,960 INFO [232/352] 1400_1400.jpg -> 1
+2025-09-09 11:54:44,824 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:54:44,827 INFO [233/352] 1600_1400.jpg -> 8
+2025-09-09 11:54:50,938 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:54:50,943 INFO [234/352] 1800_1400.jpg -> 8
+2025-09-09 11:55:02,685 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:55:02,688 INFO [235/352] 2000_1400.jpg -> 9
+2025-09-09 11:55:15,965 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:55:15,972 INFO [236/352] 2200_1400.jpg -> 11
+2025-09-09 11:55:23,856 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:55:23,861 INFO [237/352] 2400_1400.jpg -> 8
+2025-09-09 11:55:33,989 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:55:33,994 INFO [238/352] 2600_1400.jpg -> 10
+2025-09-09 11:55:45,155 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:55:45,161 INFO [239/352] 2800_1400.jpg -> 10
+2025-09-09 11:55:55,600 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:55:55,605 INFO [240/352] 3000_1400.jpg -> 10
+2025-09-09 11:56:02,883 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:56:02,887 INFO [241/352] 3200_1400.jpg -> 10
+2025-09-09 11:56:13,315 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:56:13,319 INFO [242/352] 3400_1400.jpg -> 10
+2025-09-09 11:56:21,044 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:56:21,047 INFO [243/352] 3600_1400.jpg -> 9
+2025-09-09 11:56:32,774 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:56:32,777 INFO [244/352] 3800_1400.jpg -> 13
+2025-09-09 11:56:42,745 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:56:42,749 INFO [245/352] 4000_1400.jpg -> 10
+2025-09-09 11:56:51,512 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:56:51,517 INFO [246/352] 4200_1400.jpg -> 10
+2025-09-09 11:57:01,911 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:57:01,913 INFO [247/352] 4400_1400.jpg -> 10
+2025-09-09 11:57:09,125 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:57:09,130 INFO [248/352] 4600_1400.jpg -> 10
+2025-09-09 11:57:17,317 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:57:17,321 INFO [249/352] 4800_1400.jpg -> 8
+2025-09-09 11:57:27,147 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:57:27,150 INFO [250/352] 5000_1400.jpg -> 8
+2025-09-09 11:57:34,213 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:57:34,216 INFO [251/352] 5200_1400.jpg -> 6
+2025-09-09 11:57:42,214 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:57:42,217 INFO [252/352] 5400_1400.jpg -> 8
+2025-09-09 11:57:47,964 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:57:47,969 INFO [253/352] 5600_1400.jpg -> 8
+2025-09-09 11:57:57,402 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:57:57,405 INFO [254/352] 5800_1400.jpg -> 9
+2025-09-09 11:58:04,323 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:58:04,326 INFO [255/352] 6000_1400.jpg -> 8
+2025-09-09 11:58:09,716 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:58:09,721 INFO [256/352] 6200_1400.jpg -> 8
+2025-09-09 11:58:28,503 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:58:28,508 INFO [257/352] 0_1600.jpg -> 10
+2025-09-09 11:58:36,271 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:58:36,275 INFO [258/352] 200_1600.jpg -> 8
+2025-09-09 11:58:46,304 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:58:46,308 INFO [259/352] 400_1600.jpg -> 8
+2025-09-09 11:58:59,003 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:58:59,007 INFO [260/352] 600_1600.jpg -> 7
+2025-09-09 11:59:08,527 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:59:08,532 INFO [261/352] 800_1600.jpg -> 9
+2025-09-09 11:59:19,146 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:59:19,150 INFO [262/352] 1000_1600.jpg -> 9
+2025-09-09 11:59:32,589 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:59:32,593 INFO [263/352] 1200_1600.jpg -> 9
+2025-09-09 11:59:40,782 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:59:40,785 INFO [264/352] 1400_1600.jpg -> 8
+2025-09-09 11:59:44,450 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:59:44,454 INFO [265/352] 1600_1600.jpg -> 1
+2025-09-09 11:59:54,607 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 11:59:54,610 INFO [266/352] 1800_1600.jpg -> 9
+2025-09-09 12:00:03,981 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:00:03,985 INFO [267/352] 2000_1600.jpg -> 10
+2025-09-09 12:00:16,640 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:00:16,649 INFO [268/352] 2200_1600.jpg -> 11
+2025-09-09 12:00:27,583 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:00:27,587 INFO [269/352] 2400_1600.jpg -> 9
+2025-09-09 12:00:37,849 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:00:37,852 INFO [270/352] 2600_1600.jpg -> 10
+2025-09-09 12:00:47,857 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:00:47,859 INFO [271/352] 2800_1600.jpg -> 10
+2025-09-09 12:01:01,511 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:01:01,520 INFO [272/352] 3000_1600.jpg -> 10
+2025-09-09 12:01:12,225 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:01:12,227 INFO [273/352] 3200_1600.jpg -> 10
+2025-09-09 12:01:22,059 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:01:22,061 INFO [274/352] 3400_1600.jpg -> 10
+2025-09-09 12:01:33,291 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:01:33,295 INFO [275/352] 3600_1600.jpg -> 9
+2025-09-09 12:01:40,855 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:01:40,861 INFO [276/352] 3800_1600.jpg -> 11
+2025-09-09 12:01:51,119 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:01:51,124 INFO [277/352] 4000_1600.jpg -> 8
+2025-09-09 12:01:59,949 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:01:59,953 INFO [278/352] 4200_1600.jpg -> 9
+2025-09-09 12:02:14,048 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:02:14,051 INFO [279/352] 4400_1600.jpg -> 10
+2025-09-09 12:02:23,501 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:02:23,505 INFO [280/352] 4600_1600.jpg -> 10
+2025-09-09 12:02:32,615 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:02:32,620 INFO [281/352] 4800_1600.jpg -> 7
+2025-09-09 12:02:51,867 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:02:51,872 INFO [282/352] 5000_1600.jpg -> 7
+2025-09-09 12:03:00,263 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:03:00,268 INFO [283/352] 5200_1600.jpg -> 8
+2025-09-09 12:03:09,987 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:03:09,991 INFO [284/352] 5400_1600.jpg -> 8
+2025-09-09 12:03:17,774 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:03:17,776 INFO [285/352] 5600_1600.jpg -> 6
+2025-09-09 12:03:26,271 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:03:26,274 INFO [286/352] 5800_1600.jpg -> 5
+2025-09-09 12:03:34,262 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:03:34,265 INFO [287/352] 6000_1600.jpg -> 8
+2025-09-09 12:03:42,193 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:03:42,199 INFO [288/352] 6200_1600.jpg -> 10
+2025-09-09 12:03:50,003 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:03:50,006 INFO [289/352] 0_1800.jpg -> 7
+2025-09-09 12:03:57,710 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:03:57,713 INFO [290/352] 200_1800.jpg -> 7
+2025-09-09 12:04:03,341 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:04:03,344 INFO [291/352] 400_1800.jpg -> 5
+2025-09-09 12:04:11,841 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:04:11,845 INFO [292/352] 600_1800.jpg -> 7
+2025-09-09 12:04:22,033 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:04:22,036 INFO [293/352] 800_1800.jpg -> 8
+2025-09-09 12:04:31,809 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:04:31,811 INFO [294/352] 1000_1800.jpg -> 11
+2025-09-09 12:04:40,002 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:04:40,005 INFO [295/352] 1200_1800.jpg -> 6
+2025-09-09 12:04:47,201 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:04:47,203 INFO [296/352] 1400_1800.jpg -> 7
+2025-09-09 12:05:00,071 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:05:00,075 INFO [297/352] 1600_1800.jpg -> 10
+2025-09-09 12:05:17,750 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:05:17,757 INFO [298/352] 1800_1800.jpg -> 9
+2025-09-09 12:05:30,532 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:05:30,536 INFO [299/352] 2000_1800.jpg -> 10
+2025-09-09 12:05:43,721 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:05:43,724 INFO [300/352] 2200_1800.jpg -> 12
+2025-09-09 12:05:52,606 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:05:52,609 INFO [301/352] 2400_1800.jpg -> 8
+2025-09-09 12:06:06,136 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:06:06,142 INFO [302/352] 2600_1800.jpg -> 9
+2025-09-09 12:06:16,362 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:06:16,364 INFO [303/352] 2800_1800.jpg -> 10
+2025-09-09 12:06:26,089 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:06:26,093 INFO [304/352] 3000_1800.jpg -> 10
+2025-09-09 12:06:32,131 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:06:32,133 INFO [305/352] 3200_1800.jpg -> 9
+2025-09-09 12:06:43,509 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:06:43,511 INFO [306/352] 3400_1800.jpg -> 9
+2025-09-09 12:06:55,694 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:06:55,701 INFO [307/352] 3600_1800.jpg -> 10
+2025-09-09 12:07:07,768 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:07:07,773 INFO [308/352] 3800_1800.jpg -> 10
+2025-09-09 12:07:21,083 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:07:21,086 INFO [309/352] 4000_1800.jpg -> 10
+2025-09-09 12:07:34,190 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:07:34,194 INFO [310/352] 4200_1800.jpg -> 9
+2025-09-09 12:07:46,477 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:07:46,482 INFO [311/352] 4400_1800.jpg -> 10
+2025-09-09 12:07:57,230 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:07:57,234 INFO [312/352] 4600_1800.jpg -> 10
+2025-09-09 12:08:09,521 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:08:09,526 INFO [313/352] 4800_1800.jpg -> 8
+2025-09-09 12:08:20,166 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:08:20,170 INFO [314/352] 5000_1800.jpg -> 10
+2025-09-09 12:08:29,590 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:08:29,594 INFO [315/352] 5200_1800.jpg -> 8
+2025-09-09 12:08:37,781 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:08:37,784 INFO [316/352] 5400_1800.jpg -> 8
+2025-09-09 12:08:46,507 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:08:46,512 INFO [317/352] 5600_1800.jpg -> 7
+2025-09-09 12:08:55,292 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:08:55,295 INFO [318/352] 5800_1800.jpg -> 8
+2025-09-09 12:09:02,152 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:09:02,153 INFO [319/352] 6000_1800.jpg -> 10
+2025-09-09 12:09:13,110 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:09:13,114 INFO [320/352] 6200_1800.jpg -> 10
+2025-09-09 12:09:19,356 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:09:19,359 INFO [321/352] 0_2000.jpg -> 5
+2025-09-09 12:09:33,180 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:09:33,184 INFO [322/352] 200_2000.jpg -> 11
+2025-09-09 12:09:39,324 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:09:39,328 INFO [323/352] 400_2000.jpg -> 6
+2025-09-09 12:09:46,598 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:09:46,601 INFO [324/352] 600_2000.jpg -> 6
+2025-09-09 12:09:52,126 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:09:52,129 INFO [325/352] 800_2000.jpg -> 5
+2025-09-09 12:09:58,575 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:09:58,579 INFO [326/352] 1000_2000.jpg -> 9
+2025-09-09 12:10:09,020 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:10:09,023 INFO [327/352] 1200_2000.jpg -> 8
+2025-09-09 12:10:16,402 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:10:16,410 INFO [328/352] 1400_2000.jpg -> 6
+2025-09-09 12:10:24,877 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:10:24,881 INFO [329/352] 1600_2000.jpg -> 7
+2025-09-09 12:10:33,694 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:10:33,698 INFO [330/352] 1800_2000.jpg -> 8
+2025-09-09 12:10:43,511 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:10:43,516 INFO [331/352] 2000_2000.jpg -> 8
+2025-09-09 12:10:53,230 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:10:53,234 INFO [332/352] 2200_2000.jpg -> 8
+2025-09-09 12:11:31,454 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:11:31,460 INFO [333/352] 2400_2000.jpg -> 8
+2025-09-09 12:11:40,530 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:11:40,536 INFO [334/352] 2600_2000.jpg -> 9
+2025-09-09 12:12:05,160 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:12:05,163 INFO [335/352] 2800_2000.jpg -> 8
+2025-09-09 12:12:15,428 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:12:15,433 INFO [336/352] 3000_2000.jpg -> 8
+2025-09-09 12:12:25,947 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:12:25,951 INFO [337/352] 3200_2000.jpg -> 8
+2025-09-09 12:12:33,983 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:12:33,987 INFO [338/352] 3400_2000.jpg -> 7
+2025-09-09 12:12:44,219 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:12:44,221 INFO [339/352] 3600_2000.jpg -> 7
+2025-09-09 12:12:56,614 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:12:56,618 INFO [340/352] 3800_2000.jpg -> 8
+2025-09-09 12:13:06,095 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:13:06,099 INFO [341/352] 4000_2000.jpg -> 8
+2025-09-09 12:13:16,598 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:13:16,603 INFO [342/352] 4200_2000.jpg -> 8
+2025-09-09 12:13:26,097 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:13:26,100 INFO [343/352] 4400_2000.jpg -> 7
+2025-09-09 12:13:35,124 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:13:35,128 INFO [344/352] 4600_2000.jpg -> 7
+2025-09-09 12:13:46,822 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:13:46,829 INFO [345/352] 4800_2000.jpg -> 8
+2025-09-09 12:14:01,215 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:14:01,218 INFO [346/352] 5000_2000.jpg -> 10
+2025-09-09 12:14:10,343 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:14:10,345 INFO [347/352] 5200_2000.jpg -> 6
+2025-09-09 12:14:20,483 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:14:20,489 INFO [348/352] 5400_2000.jpg -> 6
+2025-09-09 12:14:29,904 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:14:29,906 INFO [349/352] 5600_2000.jpg -> 7
+2025-09-09 12:14:44,135 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:14:44,138 INFO [350/352] 5800_2000.jpg -> 10
+2025-09-09 12:14:51,456 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:14:51,459 INFO [351/352] 6000_2000.jpg -> 8
+2025-09-09 12:15:01,138 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-09 12:15:01,140 INFO [352/352] 6200_2000.jpg -> 9
