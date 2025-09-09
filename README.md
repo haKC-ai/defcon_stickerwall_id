@@ -29,12 +29,15 @@
 Have you or a loved one every wished you had a way to identify all the @defcon #stickerwall stickers?
 If you have, this repo does all the  work. 
 
-* https://defcon.hakc.ai --> https://github.com/haKC-ai/defcon_stickerwall_id
-* https://stickerwall.hakc.ai --> Public Google Sheet output for the DEF CON 33 stickerwall
+* https://defcon.hakc.ai --> https://github.com/haKC-ai/defcon_stickerwall_id
+* https://stickerwall.hakc.ai --> https://docs.google.com/spreadsheets/d/1fEpmuktaH_FUu2C8xge5xQNcIpusEovC9kNNXWdyfTE/edit?gid=0#gid=0
+
+  * Public Google Sheet output for the DEF CON 33 stickerwall
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/haKC-ai/defcon_stickerwall_id/main/res/images/DCSIDTv23.png" alt="STICKERWALL IDENTIFIER & INDEXER v0.23" width="1600"/>
 </p>
+
 `What this script does` 
 
 It slices a large sticker wall image into overlapping tiles, identify all stickers per tile with OpenAI Vision, and streams the results to CSV in real time.
