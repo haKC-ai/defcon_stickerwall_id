@@ -1,0 +1,7 @@
+pillow
+numpy
+textual
+openai
+python-dotenv
+fade
+tenacity
