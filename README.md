@@ -27,7 +27,12 @@
 
 Slice a large sticker wall into overlapping tiles, identify all stickers per tile with OpenAI Vision, and stream results to CSV in real time.
 
-## Why this tool
+<p align="center">
+  <img src="https://raw.githubusercontent.com/haKC-ai/defcon_stickerwall_id/main/res/images/DCSIDT.png" alt="STICKERWALL IDENTIFIER & INDEXER v0.23" width="800"/>
+</p>
+
+
+## Why
 
 * Larger tiles with overlap to capture full stickers
 * Multi object detection per tile via model guidance
